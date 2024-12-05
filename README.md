@@ -2,6 +2,8 @@
 
 By Devika Sreemon
 
+Apziva id: tlnKeryg0pda6D4N
+
 **Overview**
 
 The project aims to predict whether a customer will subscribe to a term deposit (variable y) based on various customer attributes. The dataset is sourced from a European banking institution's direct marketing campaign, and the goal is to build a machine learning model that can help optimize marketing strategies by identifying customers who are likely to subscribe to a term deposit.
